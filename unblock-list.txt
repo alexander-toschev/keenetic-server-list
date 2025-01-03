@@ -638,6 +638,7 @@ api.openai.com
 172.64.0.0/16
 
 #youtube
+#https://github.com/touhidurrr/iplist-youtube/blob/main/cidr4.txt
 199.223.232.0/21
 207.223.160.0/20
 208.65.152.0/22
