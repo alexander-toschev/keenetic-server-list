@@ -1,9 +1,5 @@
 2ip.ru
-help.netflix.com
-netflix.com
-nflxvideo.net
-contenthub.netflixstudios.com
-meechum.netflix.com
+
 157.240.0.0/16
 139.15.0.0/16
 54.0.0.0/8
@@ -11,12 +7,10 @@ meechum.netflix.com
 52.0.0.0/8
 34.0.0.0/8
 45.0.0.0/8
-meduza.io
 151.115.46.250
 163.172.67.135
 151.115.47.200
 163.172.74.46
-instagram.com
 108.175.32.0/20
 108.175.34.0/24
 108.175.35.0/24
